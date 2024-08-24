@@ -1,1 +1,2 @@
 # Blogzz
+created using MERN
