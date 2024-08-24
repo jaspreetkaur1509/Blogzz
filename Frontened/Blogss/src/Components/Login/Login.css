@@ -1,0 +1,14 @@
+.model{
+    height: 80vh;
+    width: 100vw;
+}
+
+.cross{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: black;
+}
+
+.warning{
+    color: red;
+}

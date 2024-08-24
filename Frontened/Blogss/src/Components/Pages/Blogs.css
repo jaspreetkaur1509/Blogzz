@@ -1,0 +1,19 @@
+.blockCard{
+    border: 1px solid black;
+    transition: all 0.5s;
+}
+.blockCard:hover{
+    box-shadow: 4px 4px 4px 5px rgba(0, 0, 0, 0.411);
+}
+.decor{
+    text-decoration: none;
+}
+
+.blockCard{
+    text-align: justify;
+}
+
+.linkBlog{
+    text-decoration: none;
+}
+

@@ -1,0 +1,15 @@
+.formtable{
+    border: none;
+    outline: none;
+    border: 1px solid black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.BlogButton{
+    border: none;
+    outline: none;
+    font-weight: 800;
+    background-color: rgba(255, 0, 0, 0.488);
+    color: white;
+}

@@ -1,0 +1,9 @@
+.link_frontPage{
+    text-decoration: none;
+    color: grey;
+    transition: all 0.5s;
+}
+
+.link_frontPage:hover{
+    color: rgba(0, 0, 255, 0.803);
+}
