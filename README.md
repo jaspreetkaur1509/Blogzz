@@ -1,2 +1,2 @@
 # Blogzz
-created using MERN
+Created in using MERN stack
